@@ -9,7 +9,7 @@
 
 ## Code Contributions
 
-The ten minimum requirements for code contributions are:
+The ten minimum requirements for code contributions are: test
 
 1. All Pull Requests _must_ be based off the `develop` branch.
 2. The code _must_ be compliant with the configured ESLint rules based on the [JS Standard Code Style](http://standardjs.com).
